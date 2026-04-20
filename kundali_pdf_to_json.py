@@ -756,8 +756,7 @@ def main():
         sys.exit(1)
 
     pdf_path = sys.argv[1]
-    output_path = sys.argv[2] if len(sys.argv) > 2 else pdf_path.replace(".pdf", ".json")
-
+    output_path = sys.argv[2] if len(sys.argv) > 2 else "kundali.json"
     data = pdf_to_kundali_json(pdf_path)
 
     with open(output_path, "w", encoding="utf-8") as f:
