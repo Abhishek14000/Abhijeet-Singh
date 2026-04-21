@@ -249,7 +249,7 @@ PROCEDURE:
   1. Order sections:
        SECTION 1 — Foundational chart rules (Lagna, Rasi, Nakshatra, lords)
        SECTION 2 — Planetary positions (each planet: sign, house, degree, dignity)
-       SECTION 3 — Neecha Bhanga analysis (for every debilitated planet)
+       SECTION 3 — Neecha Bhanga analysis (for every debilitated planet) and any other dosh, eg- mangalik or not
        SECTION 4 — Yoga analysis (every multi-book confirmed yoga)
        SECTION 5 — Dasha / period analysis (if supported by corpus)
        SECTION 6 — Synthesis & life-domain interpretation
